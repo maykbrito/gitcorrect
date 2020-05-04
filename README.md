@@ -21,6 +21,9 @@ npm install
 
 ## Usage
 
+1. Adjust .env.js with your needed information
+
+2.
 ```sh
 npm start
 ```
