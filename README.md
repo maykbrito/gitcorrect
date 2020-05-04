@@ -21,11 +21,10 @@ npm install
 
 ## Usage
 
-1. Adjust .env.js with your needed information
+Adjust .env.js with your needed information and run
 
-2.
 ```sh
-npm start
+npm start 
 ```
 
 ## Author
