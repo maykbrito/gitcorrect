@@ -1,0 +1,17 @@
+{
+  "name": "correct-git-author-email",
+  "version": "1.0.0",
+  "description": "Simple script to correct github author and keep track of your github activities",
+  "main": "index.js",
+  "bin": {
+    "gitcorrect": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mayk Brito",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
