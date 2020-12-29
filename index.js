@@ -59,11 +59,11 @@ inquirer.prompt([
     {
         type: "input",
         name: "repository",
-        message: "Github project"
+        message: "Github project (repo name only)"
     },
     {
         type: "input",
         name: "author",
-        message: "Author to replace"
+        message: "Author or Committer name to replace"
     }
 ]).then(configureAnswers)
