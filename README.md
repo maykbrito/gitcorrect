@@ -21,7 +21,8 @@ npm install
 
 ## Usage
 
-Adjust .env.js with your needed information and run
+1. Adjust .env.js with your needed information
+2. Run
 
 ```sh
 npm start 
