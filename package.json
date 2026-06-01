@@ -12,6 +12,6 @@
   "author": "Mayk Brito",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^7.1.0"
+    "inquirer": "^14.0.2"
   }
 }
